@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403226360658",
+    "firebase_url": "https://iot-health-monitoring-b51a7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "iot-health-monitoring-b51a7",
+    "storage_bucket": "iot-health-monitoring-b51a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403226360658:android:ab7f76deadecd1687b588b",
+        "android_client_info": {
+          "package_name": "com.example.health_monitor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403226360658-fga7ajp47kge0trc133pnhgs0b7rvo8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWOnV7BOH_lv3A4Uw-ZFtI5gPTtkwwF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403226360658-fga7ajp47kge0trc133pnhgs0b7rvo8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

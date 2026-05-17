@@ -1,0 +1,35 @@
+# Firebase Secrets & Configs
+/*.json
+/python_insights_service/*.json
+!health_monitor_app/android/app/google-services.json
+
+# IDE / System files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+*.log
+
+# Python / ML Caches
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+python_insights_service/.env
+python_insights_service/ml_book_outputs/
+
+# Flutter/Dart Caches & Build Outputs
+health_monitor_app/.dart_tool/
+health_monitor_app/.flutter-plugins-dependencies
+health_monitor_app/.pub-cache/
+health_monitor_app/.pub/
+health_monitor_app/build/
+health_monitor_app/coverage/
+health_monitor_app/android/app/debug/
+health_monitor_app/android/app/profile/
+health_monitor_app/android/app/release/
+health_monitor_app/android/local.properties
