@@ -3,6 +3,7 @@
 [![Tech Stack](https://img.shields.io/badge/Stack-ESP32%20%7C%20Flutter%20%7C%20Python%20%7C%20Firebase-blueviolet?style=for-the-badge)](https://github.com/Ridge45/iot-health-monitoring-system-grad-proj)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](https://github.com/Ridge45/iot-health-monitoring-system-grad-proj)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Embedded-orange?style=for-the-badge)](https://github.com/Ridge45/iot-health-monitoring-system-grad-proj)
+[![Download APK](https://img.shields.io/badge/Download-Release%20APK-blue?style=for-the-badge&logo=android)](https://github.com/Ridge45/iot-health-monitoring-system-grad-proj/releases/latest)
 
 An end-to-end, high-performance wearable **IoT Health Monitoring System** designed for real-time biometrics acquisition, streaming, analytics, and intelligent machine learning diagnostics. 
 
