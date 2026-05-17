@@ -111,10 +111,16 @@ graph TD
    pip install -r requirements.txt
    ```
 3. Set your environment variables (pointing to your Firebase configuration):
-   ```bash
-   export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/firebase-key.json"
-   export FIREBASE_PROJECT_ID="your-firebase-project-id"
-   ```
+   * **On Windows (PowerShell):**
+     ```powershell
+     $env:GOOGLE_APPLICATION_CREDENTIALS="path\to\your\firebase-key.json"
+     $env:FIREBASE_PROJECT_ID="your-firebase-project-id"
+     ```
+   * **On Linux / macOS / Git Bash:**
+     ```bash
+     export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/firebase-key.json"
+     export FIREBASE_PROJECT_ID="your-firebase-project-id"
+     ```
 4. Run the services:
    ```bash
    python aggregate_30min.py  # Run the Aggregator
